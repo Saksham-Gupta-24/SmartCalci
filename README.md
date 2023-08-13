@@ -1,6 +1,6 @@
-# SMARTCALCI
+# SmartCalci
 
-Welcome to SMARTCALCI, a sleek and user-friendly web-based calculator designed for basic arithmetic operations. Whether you're a student, professional, or anyone in need of quick calculations, SMARTCALCI is here to simplify your mathematical tasks.
+Welcome to SmartCali, a sleek and user-friendly web-based calculator designed for basic arithmetic operations. Whether you're a student, professional, or anyone in need of quick calculations, SMARTCALCI is here to simplify your mathematical tasks.
 
 ## Features
 
